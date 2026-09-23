@@ -12,6 +12,7 @@
 
 
 ## circuit diagram
+
 <img width="1600" height="749" alt="image" src="https://github.com/user-attachments/assets/8a726865-4a59-412e-9b17-ac745aba2f78" />
 
 ## graph,calculation
