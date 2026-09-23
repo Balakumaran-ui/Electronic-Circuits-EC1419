@@ -7,10 +7,9 @@
 <img width="613" height="121" alt="image" src="https://github.com/user-attachments/assets/676c5397-3c7c-4985-b376-2d3dbd73b1d9" />
 
 
-## tinker cad circuit diagram
+## tinker cad circuit diagram,ripple factor calculation,output graph
+<img width="899" height="1523" alt="image" src="https://github.com/user-attachments/assets/c516a0cf-0dd1-45be-83f5-3a3ee7f4419a" />
 
-## ripple factor calculation
-
-## output graph
 
 ## result
+<img width="1600" height="651" alt="WhatsApp Image 2026-09-23 at 1 38 37 PM" src="https://github.com/user-attachments/assets/2c696d20-ed52-4ed7-8658-5cedb3d9fb22" />
