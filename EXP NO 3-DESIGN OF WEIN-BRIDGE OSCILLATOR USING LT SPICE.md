@@ -32,4 +32,5 @@
 <img width="1600" height="1287" alt="image" src="https://github.com/user-attachments/assets/153a679a-2598-4cc2-a918-422c9431f781" />
 
 ## result
-<img width="1600" height="634" alt="image" src="https://github.com/user-attachments/assets/2c3fc5c7-d2f0-45dd-bdfa-3e39cde38ae2" />
+
+<img width="1600" height="1427" alt="WhatsApp Image 2026-09-23 at 2 25 16 PM" src="https://github.com/user-attachments/assets/58e6d5ae-fe4e-4ae8-b4c5-4cc9daa78d6b" />
