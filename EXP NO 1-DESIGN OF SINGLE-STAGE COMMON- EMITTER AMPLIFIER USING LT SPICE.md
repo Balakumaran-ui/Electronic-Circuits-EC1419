@@ -12,9 +12,12 @@
 
 
 ## circuit diagram
+<img width="1600" height="759" alt="image" src="https://github.com/user-attachments/assets/db1282e7-f601-4946-a2b7-92b8ef62d499" />
 
-## graph
+## graph,calculation
+<img width="1600" height="818" alt="image" src="https://github.com/user-attachments/assets/057283a0-c786-40fd-9355-84e2b06e0f20" />
 
-## calculation
+
 
 ## result
+<img width="1600" height="779" alt="WhatsApp Image 2026-09-23 at 1 27 33 PM" src="https://github.com/user-attachments/assets/17059b54-76a7-49cc-a131-c3d2d9114a6c" />
