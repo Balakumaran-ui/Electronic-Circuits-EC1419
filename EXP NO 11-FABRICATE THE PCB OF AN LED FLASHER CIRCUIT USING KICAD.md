@@ -8,6 +8,12 @@
 
 ## Kicad circuit diagram
 
+<img width="1600" height="1380" alt="WhatsApp Image 2026-09-23 at 2 18 35 PM" src="https://github.com/user-attachments/assets/20a53dd2-7a26-4a69-99f0-0632bc355151" />
+
 ## PCB 3D view
 
+<img width="1600" height="1122" alt="WhatsApp Image 2026-09-23 at 2 18 50 PM" src="https://github.com/user-attachments/assets/b88ab893-cb61-4953-84e7-913a822977f2" />
+
 ## result
+
+<img width="1600" height="1407" alt="image" src="https://github.com/user-attachments/assets/3d72b4ab-15fb-4276-af3b-3eb84f73e583" />
