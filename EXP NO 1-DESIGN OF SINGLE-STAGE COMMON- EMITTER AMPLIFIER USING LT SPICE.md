@@ -13,13 +13,16 @@
 
 ## circuit diagram
 
-<img width="1600" height="749" alt="image" src="https://github.com/user-attachments/assets/1ae7226b-bca2-44ca-b6a3-39f56855999a" />
+<img width="1600" height="775" alt="image" src="https://github.com/user-attachments/assets/70a3d156-3fa3-45b5-b741-900dea6ae6d8" />
+
 
 ## graph,calculation
-<img width="1600" height="824" alt="image" src="https://github.com/user-attachments/assets/6d265c0f-e4ff-4fa6-8c8e-8d25634e8a84" />
+<img width="1600" height="826" alt="image" src="https://github.com/user-attachments/assets/bec7d9f3-e1af-42d9-a246-5015911af169" />
+
 
 
 ## result
-<img width="1600" height="779" alt="image" src="https://github.com/user-attachments/assets/f7e788b6-d01b-4a8a-90f7-18f91cb1bb73" />
+<img width="1600" height="779" alt="image" src="https://github.com/user-attachments/assets/32a8f6ae-8c6f-4542-937a-bf34bbac3644" />
+
 
 
