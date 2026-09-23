@@ -8,7 +8,7 @@
 ## Kicad circuit diagram
 <img width="1600" height="1031" alt="WhatsApp Image 2026-09-23 at 2 03 30 PM" src="https://github.com/user-attachments/assets/c054cd62-7998-4c66-a9d9-06026b276d1d" />
 
-## output waveform
+## output waveform  
 <img width="1600" height="1023" alt="WhatsApp Image 2026-09-23 at 2 03 43 PM" src="https://github.com/user-attachments/assets/336f4ef9-bb5b-45e0-881d-4e8e393eb369" />
 
 ## result
